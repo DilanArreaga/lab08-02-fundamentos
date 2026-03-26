@@ -116,6 +116,7 @@ export function PropertyDetailPage(): React.ReactElement {
                     </div>
                   ))}
                 </div>
+                
               </CardContent>
             </Card>
           )}
